@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Karan Pandya](https://github.com/KzyKx9959)
+- Place: Amreli, India
+- Bio: Web developer NodeJS
+- Github: [Karan Pandya](https://github.com/KzyKx9959)
